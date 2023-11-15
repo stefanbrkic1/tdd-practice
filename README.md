@@ -4,4 +4,6 @@ Test-driven development (TDD) is a software development process relying on softw
 
 ## TDD Algorithm
 
+<div align="center">
 <img src="./img/TDD.png" alt="Your Image">
+</div>
