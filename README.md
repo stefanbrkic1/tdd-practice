@@ -6,6 +6,7 @@ Test-driven development (TDD) is a software development process relying on softw
 
 <img src="./img/TDD.png" alt="Your Image">
 
-## Tools Used
+## Jest
 
-**Jest** - JavaScript testing framework designed to ensure correctness of any JavaScript codebase.
+Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase.
+[Click here for more](https://jestjs.io/)
