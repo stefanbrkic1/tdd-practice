@@ -5,3 +5,7 @@ Test-driven development (TDD) is a software development process relying on softw
 ## TDD Algorithm
 
 <img src="./img/TDD.png" alt="Your Image">
+
+## Tools Used
+
+**Jest** - JavaScript testing framework designed to ensure correctness of any JavaScript codebase.
